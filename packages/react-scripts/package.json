@@ -1,6 +1,6 @@
 {
   "name": "begarland-react-scripts-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configuration and scripts for Create React App Typescript with redux, react-router, and SASS",
   "repository": "begarland/create-react-app-typescript",
   "dependencies": {
