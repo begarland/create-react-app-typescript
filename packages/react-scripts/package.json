@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Configuration and scripts for Create React App Typescript with redux, react-router, and SASS",
   "repository": "begarland/create-react-app-typescript",
-  "private": true,
   "dependencies": {
     "@types/jquery": "^3.2.12",
     "@types/jest": "^20.0.8",
