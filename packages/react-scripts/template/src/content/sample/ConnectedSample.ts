@@ -3,10 +3,9 @@ import { withRouter } from 'react-router-dom'
 import { push } from 'react-router-redux'
 import Sample from './Sample'
 
-
 const mapStateToProps = (state, ownProps) =>  {
     return {
-
+        appState: state.appState
     }
 }
 

@@ -2,6 +2,8 @@ import * as React from 'react'
 
 const logo = require('./logo.svg')
 
+import ConnectedSample from './content/sample/ConnectedSample'
+
 class App extends React.Component<any, any> {
   render() {
     return (
@@ -13,6 +15,7 @@ class App extends React.Component<any, any> {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
+          <ConnectedSample/>
       </div>
     )
   }
